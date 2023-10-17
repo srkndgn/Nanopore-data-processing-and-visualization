@@ -133,5 +133,6 @@ methylartist region -i chr18:36771904-37909338 -b sample_01.sorted.bam:#9a32a8,s
 
 ################################################################
 
-
+# You can run all commands with sbatch
+sbatch methylartist_all_commands_for_bam.sh
 
